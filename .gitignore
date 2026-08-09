@@ -1,0 +1,10 @@
+# PowerElectronicsSlides - ignore list
+
+FinalWithActiveLinkPublication.pdf
+GitTokenKey.txt
+
+# Common junk, uncomment or extend as needed
+.DS_Store
+*.aux
+*.log
+*.synctex.gz
