@@ -3,22 +3,22 @@
 Lecture slides and technical notes on Power Electronics, prepared for B.Tech EE teaching at Dr. B. C. Roy Engineering College (BCREC), Durgapur.
 
 ## 📁 Repository Structure
-
 ```
 .
-├── Application/
-│   └── UPS_SMPS_noteV1.pdf
-├── Chopper/
-│   ├── TopologyConverter.pdf
-│   └── updated_chopper_critical_L_C.pdf
-├── Introduction/
-│   ├── Power_Semiconductor_Devices_BCREC_V1.pdf
-│   └── SCR_MOSFET_Snubber_Protection_BCREC_V1.pdf
-└── Inverter_1Ph/
-    ├── inverter_lecture_01.pdf
-    ├── inverter_lecture_02.pdf
-    ├── inverter_lecture_03.pdf
-    └── inverter_lecture_04.pdf
+└── Slides/
+    ├── Application/
+    │   └── UPS_SMPS_noteV1.pdf
+    ├── Chopper/
+    │   ├── TopologyConverter.pdf
+    │   └── updated_chopper_critical_L_C.pdf
+    ├── Introduction/
+    │   ├── Power_Semiconductor_Devices_BCREC_V1.pdf
+    │   └── SCR_MOSFET_Snubber_Protection_BCREC_V1.pdf
+    └── Inverter_1Ph/
+        ├── inverter_lecture_01.pdf
+        ├── inverter_lecture_02.pdf
+        ├── inverter_lecture_03.pdf
+        └── inverter_lecture_04.pdf
 ```
 
 ## 📚 Contents Overview
@@ -49,3 +49,8 @@ Assistant Professor, Department of Electrical Engineering
 Dr. B. C. Roy Engineering College (BCREC), Durgapur
 
 GitHub: https://github.com/KingsukMajumdar
+
+
+**⭐ Star this repository if it helped you! ⭐**
+
+*Made with ❤️ for students of Dr. B. C. Roy Engineering College*
