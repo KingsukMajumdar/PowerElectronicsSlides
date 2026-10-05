@@ -20,7 +20,11 @@ Lecture slides and technical notes on Power Electronics, prepared for B.Tech EE 
         ├── inverter_lecture_03.pdf
         └── inverter_lecture_04.pdf
 ```
-
+## :snake: Google CoLab
+| Topic | Colab Link |
+|------|---------|
+| 1-Phase Half Wave Phase Controlled Rectifier | [click here](https://colab.research.google.com/drive/1fGXhljGyrCjjoijs_1oxCRnDNWBK6HZU?usp=sharing) 
+---
 ## 📚 Contents Overview
 
 - **Application** : UPS and SMPS operating notes
