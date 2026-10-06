@@ -24,9 +24,8 @@ Lecture slides and technical notes on Power Electronics, prepared for B.Tech EE 
 ## :snake: Google CoLab
 | Topic | Colab Link |
 |------|---------|
-| 1-Phase Half Wave Phase Controlled Rectifier | [click here](https://colab.research.google.com/drive/1fGXhljGyrCjjoijs_1oxCRnDNWBK6HZU?usp=sharing) 
-| 1-Phase Half Wave Phase Controlled Rectifier with Ls | [click here](https://drive.google.com/file/d/1cw7JFnXdDU_u2FZuGcB2CJOEdaFlt6JI/view?usp=sharing) 
-| 1-Phase full Wave Phase Controlled Rectifier with Ls, Full/semi | [click here](https://drive.google.com/file/d/1hkzkE4aVCnLd3Si6L-PvkHo0FB5kPVwq/view?usp=sharing) 
+| 1-Phase Half Wave Phase Controlled Rectifier with Ls | [click here](https://colab.research.google.com/drive/1ALbSjmSpqp1cT9qgkAAMOqwyokwdFnQR?usp=sharing) 
+| 1-Phase full Wave Phase Controlled Rectifier with Ls, Full/semi | [click here](https://colab.research.google.com/drive/1Ak98u6gH9XL8RubrvaKgCr3KuPMP3N-i?usp=sharing) 
 ---
 ## 📚 Contents Overview
 
