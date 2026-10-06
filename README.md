@@ -20,10 +20,12 @@ Lecture slides and technical notes on Power Electronics, prepared for B.Tech EE 
         ├── inverter_lecture_03.pdf
         └── inverter_lecture_04.pdf
 ```
+https://drive.google.com/file/d/1cw7JFnXdDU_u2FZuGcB2CJOEdaFlt6JI/view?usp=sharing
 ## :snake: Google CoLab
 | Topic | Colab Link |
 |------|---------|
 | 1-Phase Half Wave Phase Controlled Rectifier | [click here](https://colab.research.google.com/drive/1fGXhljGyrCjjoijs_1oxCRnDNWBK6HZU?usp=sharing) 
+| 1-Phase Half Wave Phase Controlled Rectifier with Ls | [click here](https://drive.google.com/file/d/1cw7JFnXdDU_u2FZuGcB2CJOEdaFlt6JI/view?usp=sharing) 
 ---
 ## 📚 Contents Overview
 
