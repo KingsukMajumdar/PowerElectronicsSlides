@@ -20,7 +20,7 @@ Lecture slides and technical notes on Power Electronics, prepared for B.Tech EE 
         ├── inverter_lecture_03.pdf
         └── inverter_lecture_04.pdf
 ```
-https://drive.google.com/file/d/1cw7JFnXdDU_u2FZuGcB2CJOEdaFlt6JI/view?usp=sharing
+
 ## :snake: Google CoLab
 | Topic | Colab Link |
 |------|---------|
