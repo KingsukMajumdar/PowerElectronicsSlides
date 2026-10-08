@@ -26,6 +26,7 @@ Lecture slides and technical notes on Power Electronics, prepared for B.Tech EE 
 |------|---------|
 | 1-Phase Half Wave Phase Controlled Rectifier with Ls | [click here](https://colab.research.google.com/drive/1ALbSjmSpqp1cT9qgkAAMOqwyokwdFnQR?usp=sharing) 
 | 1-Phase full Wave Phase Controlled Rectifier with Ls, Full/semi | [click here](https://colab.research.google.com/drive/1Ak98u6gH9XL8RubrvaKgCr3KuPMP3N-i?usp=sharing) 
+| 3-Phase half/full(Full/semi ) Wave Phase Controlled Rectifier with Ls, | [click here](https://colab.research.google.com/drive/1cSBzOlkGqqZzUXXfKfYP2eoWTZrcxloI?usp=sharing) 
 ---
 ## 📚 Contents Overview
 
